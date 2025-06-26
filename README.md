@@ -1,6 +1,5 @@
 # कृषिCare: Plant Disease Detection
 
-Deployed at Godaddy Registered Domain: [hackthefarm.co](https://hackthefarm.co/) & [कृषिCare.netlify.app](https://कृषिCare.netlify.app/)
 
 
 <b><i>कृषिCare is a powerful web-based platform that empowers farmers to detect plant diseases by simply uploading an image. Leveraging advanced machine learning models and a user-friendly interface, कृषिCare aims to provide timely and accurate disease identification, accompanied by the progression rates of potential diseases.</b>
